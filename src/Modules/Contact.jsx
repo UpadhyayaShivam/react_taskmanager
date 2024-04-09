@@ -6,13 +6,13 @@ const ContactPage = () => {
       <p className="mb-4">You can reach us through the following channels:</p>
       <ul className="list-disc ml-6 mb-8">
         <li>
-          GitHub: <a href="https://github.com/yourusername" className="text-blue-500 hover:underline">Your GitHub Account</a>
+          GitHub: <a href="https://github.com/UpadhyayaShivam" className="text-blue-500 hover:underline">Shivam Sharma : UpadhyayaShivam</a>
         </li>
         <li>
-          Instagram: <a href="https://www.instagram.com/yourusername/" className="text-blue-500 hover:underline">Your Instagram Account</a>
+          Instagram: <a href="https://www.instagram.com/shivam6957/" className="text-blue-500 hover:underline">shivam6957</a>
         </li>
         <li>
-          Email: <a href="mailto:youremail@example.com" className="text-blue-500 hover:underline">youremail@example.com</a>
+          Email: className="text-blue-500 hover:underline">shivam.upadhyaya23@gmail.com</a>
         </li>
       </ul>
     </div>
